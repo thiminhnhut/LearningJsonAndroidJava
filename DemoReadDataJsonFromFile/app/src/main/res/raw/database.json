@@ -1,0 +1,2590 @@
+{
+  "BrandModel": {
+    "AIKIBI": {
+      "AIKIBI-Model1": {
+        "RemoteConfig": 1,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "AIKIBI-Model2": {
+        "RemoteConfig": 2,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "AIKIBI-Model3": {
+        "RemoteConfig": 3,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "AIKIBI-Model4": {
+        "RemoteConfig": 4,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "AIKIBI-Model5": {
+        "RemoteConfig": 5,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "AIKIBI-Model6": {
+        "RemoteConfig": 6,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "AIKIBI-Model7": {
+        "RemoteConfig": 7,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "AIKIBI-Model8": {
+        "RemoteConfig": 8,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "AIKIBI-Model9": {
+        "RemoteConfig": 9,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "AIKIBI-Model10": {
+        "RemoteConfig": 10,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      }
+    },
+    "BALLU": {
+      "BALLU-Model1": {
+        "RemoteConfig": 1,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "BALLU-Model2": {
+        "RemoteConfig": 2,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "BALLU-Model3": {
+        "RemoteConfig": 3,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "BALLU-Model4": {
+        "RemoteConfig": 4,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "BALLU-Model5": {
+        "RemoteConfig": 5,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "BALLU-Model6": {
+        "RemoteConfig": 6,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "BALLU-Model7": {
+        "RemoteConfig": 7,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "BALLU-Model8": {
+        "RemoteConfig": 8,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "BALLU-Model9": {
+        "RemoteConfig": 9,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "BALLU-Model10": {
+        "RemoteConfig": 10,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      }
+    },
+    "CARRIER": {
+      "CARRIER-Model1": {
+        "RemoteConfig": 1,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "CARRIER-Model2": {
+        "RemoteConfig": 2,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "CARRIER-Model3": {
+        "RemoteConfig": 3,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "CARRIER-Model4": {
+        "RemoteConfig": 4,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "CARRIER-Model5": {
+        "RemoteConfig": 5,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "CARRIER-Model6": {
+        "RemoteConfig": 6,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "CARRIER-Model7": {
+        "RemoteConfig": 7,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "CARRIER-Model8": {
+        "RemoteConfig": 8,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "CARRIER-Model9": {
+        "RemoteConfig": 9,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "CARRIER-Model10": {
+        "RemoteConfig": 10,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      }
+    },
+    "DAIKIN": {
+      "DAIKIN-Model1": {
+        "RemoteConfig": 1,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "DAIKIN-Model2": {
+        "RemoteConfig": 2,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "DAIKIN-Model3": {
+        "RemoteConfig": 3,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "DAIKIN-Model4": {
+        "RemoteConfig": 4,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "DAIKIN-Model5": {
+        "RemoteConfig": 5,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "DAIKIN-Model6": {
+        "RemoteConfig": 6,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "DAIKIN-Model7": {
+        "RemoteConfig": 7,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "DAIKIN-Model8": {
+        "RemoteConfig": 8,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "DAIKIN-Model9": {
+        "RemoteConfig": 9,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "DAIKIN-Model10": {
+        "RemoteConfig": 10,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      }
+    },
+    "DEAWOO": {
+      "DEAWOO-Model1": {
+        "RemoteConfig": 1,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "DEAWOO-Model2": {
+        "RemoteConfig": 2,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "DEAWOO-Model3": {
+        "RemoteConfig": 3,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "DEAWOO-Model4": {
+        "RemoteConfig": 4,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "DEAWOO-Model5": {
+        "RemoteConfig": 5,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "DEAWOO-Model6": {
+        "RemoteConfig": 6,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "DEAWOO-Model7": {
+        "RemoteConfig": 7,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "DEAWOO-Model8": {
+        "RemoteConfig": 8,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "DEAWOO-Model9": {
+        "RemoteConfig": 9,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "DEAWOO-Model10": {
+        "RemoteConfig": 10,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      }
+    },
+    "ELECTROLUX": {
+      "ELECTROLUX-Model1": {
+        "RemoteConfig": 1,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "ELECTROLUX-Model2": {
+        "RemoteConfig": 2,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "ELECTROLUX-Model3": {
+        "RemoteConfig": 3,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "ELECTROLUX-Model4": {
+        "RemoteConfig": 4,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "ELECTROLUX-Model5": {
+        "RemoteConfig": 5,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "ELECTROLUX-Model6": {
+        "RemoteConfig": 6,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "ELECTROLUX-Model7": {
+        "RemoteConfig": 7,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "ELECTROLUX-Model8": {
+        "RemoteConfig": 8,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "ELECTROLUX-Model9": {
+        "RemoteConfig": 9,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "ELECTROLUX-Model10": {
+        "RemoteConfig": 10,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      }
+    },
+    "FUJITSU": {
+      "FUJITSU-Model1": {
+        "RemoteConfig": 1,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "FUJITSU-Model2": {
+        "RemoteConfig": 2,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "FUJITSU-Model3": {
+        "RemoteConfig": 3,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "FUJITSU-Model4": {
+        "RemoteConfig": 4,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "FUJITSU-Model5": {
+        "RemoteConfig": 5,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "FUJITSU-Model6": {
+        "RemoteConfig": 6,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "FUJITSU-Model7": {
+        "RemoteConfig": 7,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "FUJITSU-Model8": {
+        "RemoteConfig": 8,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "FUJITSU-Model9": {
+        "RemoteConfig": 9,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "FUJITSU-Model10": {
+        "RemoteConfig": 10,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      }
+    },
+    "FUNIKI": {
+      "FUNIKI-Model1": {
+        "RemoteConfig": 1,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "FUNIKI-Model2": {
+        "RemoteConfig": 2,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "FUNIKI-Model3": {
+        "RemoteConfig": 3,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "FUNIKI-Model4": {
+        "RemoteConfig": 4,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "FUNIKI-Model5": {
+        "RemoteConfig": 5,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "FUNIKI-Model6": {
+        "RemoteConfig": 6,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "FUNIKI-Model7": {
+        "RemoteConfig": 7,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "FUNIKI-Model8": {
+        "RemoteConfig": 8,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "FUNIKI-Model9": {
+        "RemoteConfig": 9,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "FUNIKI-Model10": {
+        "RemoteConfig": 10,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      }
+    },
+    "GREE": {
+      "GREE-Model1": {
+        "RemoteConfig": 1,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "GREE-Model2": {
+        "RemoteConfig": 2,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "GREE-Model3": {
+        "RemoteConfig": 3,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "GREE-Model4": {
+        "RemoteConfig": 4,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "GREE-Model5": {
+        "RemoteConfig": 5,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "GREE-Model6": {
+        "RemoteConfig": 6,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "GREE-Model7": {
+        "RemoteConfig": 7,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "GREE-Model8": {
+        "RemoteConfig": 8,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "GREE-Model9": {
+        "RemoteConfig": 9,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "GREE-Model10": {
+        "RemoteConfig": 10,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      }
+    },
+    "HAIER": {
+      "HAIER-Model1": {
+        "RemoteConfig": 1,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "HAIER-Model2": {
+        "RemoteConfig": 2,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "HAIER-Model3": {
+        "RemoteConfig": 3,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "HAIER-Model4": {
+        "RemoteConfig": 4,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "HAIER-Model5": {
+        "RemoteConfig": 5,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "HAIER-Model6": {
+        "RemoteConfig": 6,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "HAIER-Model7": {
+        "RemoteConfig": 7,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "HAIER-Model8": {
+        "RemoteConfig": 8,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "HAIER-Model9": {
+        "RemoteConfig": 9,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "HAIER-Model10": {
+        "RemoteConfig": 10,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      }
+    },
+    "HISENSE": {
+      "HISENSE-Model1": {
+        "RemoteConfig": 1,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "HISENSE-Model2": {
+        "RemoteConfig": 2,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "HISENSE-Model3": {
+        "RemoteConfig": 3,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "HISENSE-Model4": {
+        "RemoteConfig": 4,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "HISENSE-Model5": {
+        "RemoteConfig": 5,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "HISENSE-Model6": {
+        "RemoteConfig": 6,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "HISENSE-Model7": {
+        "RemoteConfig": 7,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "HISENSE-Model8": {
+        "RemoteConfig": 8,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "HISENSE-Model9": {
+        "RemoteConfig": 9,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "HISENSE-Model10": {
+        "RemoteConfig": 10,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      }
+    },
+    "HITACHI": {
+      "HITACHI-Model1": {
+        "RemoteConfig": 1,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "HITACHI-Model2": {
+        "RemoteConfig": 2,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "HITACHI-Model3": {
+        "RemoteConfig": 3,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "HITACHI-Model4": {
+        "RemoteConfig": 4,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "HITACHI-Model5": {
+        "RemoteConfig": 5,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "HITACHI-Model6": {
+        "RemoteConfig": 6,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "HITACHI-Model7": {
+        "RemoteConfig": 7,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "HITACHI-Model8": {
+        "RemoteConfig": 8,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "HITACHI-Model9": {
+        "RemoteConfig": 9,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "HITACHI-Model10": {
+        "RemoteConfig": 10,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      }
+    },
+    "HYUNDAI": {
+      "HYUNDAI-Model1": {
+        "RemoteConfig": 1,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "HYUNDAI-Model2": {
+        "RemoteConfig": 2,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "HYUNDAI-Model3": {
+        "RemoteConfig": 3,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "HYUNDAI-Model4": {
+        "RemoteConfig": 4,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "HYUNDAI-Model5": {
+        "RemoteConfig": 5,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "HYUNDAI-Model6": {
+        "RemoteConfig": 6,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "HYUNDAI-Model7": {
+        "RemoteConfig": 7,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "HYUNDAI-Model8": {
+        "RemoteConfig": 8,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "HYUNDAI-Model9": {
+        "RemoteConfig": 9,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "HYUNDAI-Model10": {
+        "RemoteConfig": 10,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      }
+    },
+    "LG": {
+      "LG-Model1": {
+        "RemoteConfig": 1,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "LG-Model2": {
+        "RemoteConfig": 2,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "LG-Model3": {
+        "RemoteConfig": 3,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "LG-Model4": {
+        "RemoteConfig": 4,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "LG-Model5": {
+        "RemoteConfig": 5,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "LG-Model6": {
+        "RemoteConfig": 6,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "LG-Model7": {
+        "RemoteConfig": 7,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "LG-Model8": {
+        "RemoteConfig": 8,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "LG-Model9": {
+        "RemoteConfig": 9,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "LG-Model10": {
+        "RemoteConfig": 10,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      }
+    },
+    "MIDEA": {
+      "MIDEA-Model1": {
+        "RemoteConfig": 1,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "MIDEA-Model2": {
+        "RemoteConfig": 2,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "MIDEA-Model3": {
+        "RemoteConfig": 3,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "MIDEA-Model4": {
+        "RemoteConfig": 4,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "MIDEA-Model5": {
+        "RemoteConfig": 5,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "MIDEA-Model6": {
+        "RemoteConfig": 6,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "MIDEA-Model7": {
+        "RemoteConfig": 7,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "MIDEA-Model8": {
+        "RemoteConfig": 8,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "MIDEA-Model9": {
+        "RemoteConfig": 9,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "MIDEA-Model10": {
+        "RemoteConfig": 10,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      }
+    },
+    "MITSUBISHI": {
+      "MITSUBISHI-Model1": {
+        "RemoteConfig": 1,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "MITSUBISHI-Model2": {
+        "RemoteConfig": 2,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "MITSUBISHI-Model3": {
+        "RemoteConfig": 3,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "MITSUBISHI-Model4": {
+        "RemoteConfig": 4,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "MITSUBISHI-Model5": {
+        "RemoteConfig": 5,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "MITSUBISHI-Model6": {
+        "RemoteConfig": 6,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "MITSUBISHI-Model7": {
+        "RemoteConfig": 7,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "MITSUBISHI-Model8": {
+        "RemoteConfig": 8,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "MITSUBISHI-Model9": {
+        "RemoteConfig": 9,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "MITSUBISHI-Model10": {
+        "RemoteConfig": 10,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      }
+    },
+    "NAGAKAWA": {
+      "NAGAKAWA-Model1": {
+        "RemoteConfig": 1,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "NAGAKAWA-Model2": {
+        "RemoteConfig": 2,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "NAGAKAWA-Model3": {
+        "RemoteConfig": 3,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "NAGAKAWA-Model4": {
+        "RemoteConfig": 4,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "NAGAKAWA-Model5": {
+        "RemoteConfig": 5,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "NAGAKAWA-Model6": {
+        "RemoteConfig": 6,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "NAGAKAWA-Model7": {
+        "RemoteConfig": 7,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "NAGAKAWA-Model8": {
+        "RemoteConfig": 8,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "NAGAKAWA-Model9": {
+        "RemoteConfig": 9,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "NAGAKAWA-Model10": {
+        "RemoteConfig": 10,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      }
+    },
+    "NATIONAL": {
+      "NATIONAL-Model1": {
+        "RemoteConfig": 1,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "NATIONAL-Model2": {
+        "RemoteConfig": 2,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "NATIONAL-Model3": {
+        "RemoteConfig": 3,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "NATIONAL-Model4": {
+        "RemoteConfig": 4,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "NATIONAL-Model5": {
+        "RemoteConfig": 5,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "NATIONAL-Model6": {
+        "RemoteConfig": 6,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "NATIONAL-Model7": {
+        "RemoteConfig": 7,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "NATIONAL-Model8": {
+        "RemoteConfig": 8,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "NATIONAL-Model9": {
+        "RemoteConfig": 9,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "NATIONAL-Model10": {
+        "RemoteConfig": 10,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      }
+    },
+    "PANASONIC": {
+      "PANASONIC-Model1": {
+        "RemoteConfig": 1,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "PANASONIC-Model2": {
+        "RemoteConfig": 2,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "PANASONIC-Model3": {
+        "RemoteConfig": 3,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "PANASONIC-Model4": {
+        "RemoteConfig": 4,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "PANASONIC-Model5": {
+        "RemoteConfig": 5,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "PANASONIC-Model6": {
+        "RemoteConfig": 6,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "PANASONIC-Model7": {
+        "RemoteConfig": 7,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "PANASONIC-Model8": {
+        "RemoteConfig": 8,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "PANASONIC-Model9": {
+        "RemoteConfig": 9,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "PANASONIC-Model10": {
+        "RemoteConfig": 10,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      }
+    },
+    "REETECH": {
+      "REETECH-Model1": {
+        "RemoteConfig": 1,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "REETECH-Model2": {
+        "RemoteConfig": 2,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "REETECH-Model3": {
+        "RemoteConfig": 3,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "REETECH-Model4": {
+        "RemoteConfig": 4,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "REETECH-Model5": {
+        "RemoteConfig": 5,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "REETECH-Model6": {
+        "RemoteConfig": 6,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "REETECH-Model7": {
+        "RemoteConfig": 7,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "REETECH-Model8": {
+        "RemoteConfig": 8,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "REETECH-Model9": {
+        "RemoteConfig": 9,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "REETECH-Model10": {
+        "RemoteConfig": 10,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      }
+    },
+    "SAMSUNG": {
+      "SAMSUNG-Model1": {
+        "RemoteConfig": 1,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "SAMSUNG-Model2": {
+        "RemoteConfig": 2,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "SAMSUNG-Model3": {
+        "RemoteConfig": 3,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "SAMSUNG-Model4": {
+        "RemoteConfig": 4,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "SAMSUNG-Model5": {
+        "RemoteConfig": 5,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "SAMSUNG-Model6": {
+        "RemoteConfig": 6,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "SAMSUNG-Model7": {
+        "RemoteConfig": 7,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "SAMSUNG-Model8": {
+        "RemoteConfig": 8,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "SAMSUNG-Model9": {
+        "RemoteConfig": 9,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "SAMSUNG-Model10": {
+        "RemoteConfig": 10,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      }
+    },
+    "SANYO": {
+      "SANYO-Model1": {
+        "RemoteConfig": 1,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "SANYO-Model2": {
+        "RemoteConfig": 2,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "SANYO-Model3": {
+        "RemoteConfig": 3,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "SANYO-Model4": {
+        "RemoteConfig": 4,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "SANYO-Model5": {
+        "RemoteConfig": 5,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "SANYO-Model6": {
+        "RemoteConfig": 6,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "SANYO-Model7": {
+        "RemoteConfig": 7,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "SANYO-Model8": {
+        "RemoteConfig": 8,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "SANYO-Model9": {
+        "RemoteConfig": 9,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "SANYO-Model10": {
+        "RemoteConfig": 10,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      }
+    },
+    "SHARP": {
+      "SHARP-Model1": {
+        "RemoteConfig": 1,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "SHARP-Model2": {
+        "RemoteConfig": 2,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "SHARP-Model3": {
+        "RemoteConfig": 3,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "SHARP-Model4": {
+        "RemoteConfig": 4,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "SHARP-Model5": {
+        "RemoteConfig": 5,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "SHARP-Model6": {
+        "RemoteConfig": 6,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "SHARP-Model7": {
+        "RemoteConfig": 7,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "SHARP-Model8": {
+        "RemoteConfig": 8,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "SHARP-Model9": {
+        "RemoteConfig": 9,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "SHARP-Model10": {
+        "RemoteConfig": 10,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      }
+    },
+    "SUMIKURA": {
+      "SUMIKURA-Model1": {
+        "RemoteConfig": 1,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "SUMIKURA-Model2": {
+        "RemoteConfig": 2,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "SUMIKURA-Model3": {
+        "RemoteConfig": 3,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "SUMIKURA-Model4": {
+        "RemoteConfig": 4,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "SUMIKURA-Model5": {
+        "RemoteConfig": 5,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "SUMIKURA-Model6": {
+        "RemoteConfig": 6,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "SUMIKURA-Model7": {
+        "RemoteConfig": 7,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "SUMIKURA-Model8": {
+        "RemoteConfig": 8,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "SUMIKURA-Model9": {
+        "RemoteConfig": 9,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "SUMIKURA-Model10": {
+        "RemoteConfig": 10,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      }
+    },
+    "TCL": {
+      "TCL-Model1": {
+        "RemoteConfig": 1,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "TCL-Model2": {
+        "RemoteConfig": 2,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "TCL-Model3": {
+        "RemoteConfig": 3,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "TCL-Model4": {
+        "RemoteConfig": 4,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "TCL-Model5": {
+        "RemoteConfig": 5,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "TCL-Model6": {
+        "RemoteConfig": 6,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "TCL-Model7": {
+        "RemoteConfig": 7,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "TCL-Model8": {
+        "RemoteConfig": 8,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "TCL-Model9": {
+        "RemoteConfig": 9,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "TCL-Model10": {
+        "RemoteConfig": 10,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      }
+    },
+    "TOSHIBA": {
+      "TOSHIBA-Model1": {
+        "RemoteConfig": 1,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "TOSHIBA-Model2": {
+        "RemoteConfig": 2,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "TOSHIBA-Model3": {
+        "RemoteConfig": 3,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "TOSHIBA-Model4": {
+        "RemoteConfig": 4,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "TOSHIBA-Model5": {
+        "RemoteConfig": 5,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "TOSHIBA-Model6": {
+        "RemoteConfig": 6,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "TOSHIBA-Model7": {
+        "RemoteConfig": 7,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "TOSHIBA-Model8": {
+        "RemoteConfig": 8,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "TOSHIBA-Model9": {
+        "RemoteConfig": 9,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "TOSHIBA-Model10": {
+        "RemoteConfig": 10,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      }
+    },
+    "YUIKI": {
+      "YUIKI-Model1": {
+        "RemoteConfig": 1,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "YUIKI-Model2": {
+        "RemoteConfig": 2,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "YUIKI-Model3": {
+        "RemoteConfig": 3,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "YUIKI-Model4": {
+        "RemoteConfig": 4,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "YUIKI-Model5": {
+        "RemoteConfig": 5,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "YUIKI-Model6": {
+        "RemoteConfig": 6,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "YUIKI-Model7": {
+        "RemoteConfig": 7,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "YUIKI-Model8": {
+        "RemoteConfig": 8,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "YUIKI-Model9": {
+        "RemoteConfig": 9,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      },
+      "YUIKI-Model10": {
+        "RemoteConfig": 10,
+        "Inverter": 0,
+        "HeatingPower": 123,
+        "CoolingPower": 123,
+        "InputPower": 123,
+        "IndoorOutdoorLink": 2,
+        "MainPowerTo": "indoor"
+      }
+    }
+  },
+  "RemoteConfig": {
+    "1": {
+      "RemoteID": 1,
+      "MinTemp": 16,
+      "MaxTemp": 30,
+      "MaxFan": 3,
+      "HeatMode": 0,
+      "AutoMode": 1,
+      "File": "PanasonicCKPHeatpumpIR",
+      "Image": ""
+    },
+    "2": {
+      "RemoteID": 2,
+      "MinTemp": 16,
+      "MaxTemp": 31,
+      "MaxFan": 3,
+      "HeatMode": 1,
+      "AutoMode": 0,
+      "File": "PanasonicDKEHeatpumpIR",
+      "Image": ""
+    },
+    "3": {
+      "RemoteID": 3,
+      "MinTemp": 17,
+      "MaxTemp": 30,
+      "MaxFan": 3,
+      "HeatMode": 0,
+      "AutoMode": 1,
+      "File": "PanasonicDKEHeatpumpIR",
+      "Image": ""
+    },
+    "4": {
+      "RemoteID": 4,
+      "MinTemp": 17,
+      "MaxTemp": 30,
+      "MaxFan": 3,
+      "HeatMode": 0,
+      "AutoMode": 1,
+      "File": "PanasonicDKEHeatpumpIR",
+      "Image": ""
+    },
+    "5": {
+      "RemoteID": 5,
+      "MinTemp": 17,
+      "MaxTemp": 30,
+      "MaxFan": 3,
+      "HeatMode": 0,
+      "AutoMode": 1,
+      "File": "PanasonicDKEHeatpumpIR",
+      "Image": ""
+    },
+    "6": {
+      "RemoteID": 6,
+      "MinTemp": 17,
+      "MaxTemp": 30,
+      "MaxFan": 3,
+      "HeatMode": 0,
+      "AutoMode": 1,
+      "File": "PanasonicDKEHeatpumpIR",
+      "Image": ""
+    },
+    "7": {
+      "RemoteID": 7,
+      "MinTemp": 17,
+      "MaxTemp": 30,
+      "MaxFan": 3,
+      "HeatMode": 0,
+      "AutoMode": 1,
+      "File": "PanasonicDKEHeatpumpIR",
+      "Image": ""
+    },
+    "8": {
+      "RemoteID": 8,
+      "MinTemp": 17,
+      "MaxTemp": 30,
+      "MaxFan": 3,
+      "HeatMode": 0,
+      "AutoMode": 1,
+      "File": "PanasonicDKEHeatpumpIR",
+      "Image": ""
+    },
+    "9": {
+      "RemoteID": 9,
+      "MinTemp": 17,
+      "MaxTemp": 30,
+      "MaxFan": 3,
+      "HeatMode": 0,
+      "AutoMode": 1,
+      "File": "PanasonicDKEHeatpumpIR",
+      "Image": ""
+    },
+    "10": {
+      "RemoteID": 10,
+      "MinTemp": 17,
+      "MaxTemp": 30,
+      "MaxFan": 3,
+      "HeatMode": 0,
+      "AutoMode": 1,
+      "File": "PanasonicDKEHeatpumpIR",
+      "Image": ""
+    }
+  }
+}
