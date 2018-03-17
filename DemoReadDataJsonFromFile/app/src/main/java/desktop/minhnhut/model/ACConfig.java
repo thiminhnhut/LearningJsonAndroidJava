@@ -1,7 +1,5 @@
 package desktop.minhnhut.model;
 
-import java.util.ArrayList;
-
 /**
  * Created by minhnhut on 3/15/2018.
  */
